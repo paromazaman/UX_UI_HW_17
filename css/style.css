@@ -33,7 +33,7 @@ ul {
 
 footer {
     background-color: 373738;
-    padding: 32px;
+    padding: 20px;
     
 }
 
@@ -47,5 +47,5 @@ footer ul {
 footer li {
     display: inline-block;
     margin-right: 64px;
-    padding: 64px;
+    padding: 20px;
 }
